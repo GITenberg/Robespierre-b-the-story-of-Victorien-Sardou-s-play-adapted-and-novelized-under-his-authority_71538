@@ -1,5 +1,8 @@
 _repo: Robespierre-b-the-story-of-Victorien-Sardou-s-play-adapted-and-novelized-under-his-authority_71538
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71538-h/images/img-cover.jpg
 creator:
   authors:
   - agent_name: Galdemar, Ange
@@ -17,6 +20,8 @@ creator:
     - https://en.wikipedia.org/wiki/Victorien_Sardou
     - https://fr.wikipedia.org/wiki/Victorien_Sardou
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71538#Robespierre-b-the-story-of-Victorien-Sardou-s-play-adapted-and-novelized-under-his-authority
 gutenberg_issued: '2023-09-01'
 identifiers:
   gutenberg: '71538'

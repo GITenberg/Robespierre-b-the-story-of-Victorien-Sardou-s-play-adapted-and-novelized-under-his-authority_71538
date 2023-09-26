@@ -1,0 +1,35 @@
+_repo: Robespierre-b-the-story-of-Victorien-Sardou-s-play-adapted-and-novelized-under-his-authority_71538
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Galdemar, Ange
+    birthdate: 1857
+    deathdate: 1939
+    gutenberg_agent_id: '56292'
+    url: http://www.gutenberg.org/2009/agents/56292
+  - agent_name: Sardou, Victorien
+    alias: Sardou, V. (Victorien)
+    birthdate: 1831
+    deathdate: 1908
+    gutenberg_agent_id: '8731'
+    url: http://www.gutenberg.org/2009/agents/8731
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Victorien_Sardou
+    - https://fr.wikipedia.org/wiki/Victorien_Sardou
+description: ''
+gutenberg_issued: '2023-09-01'
+identifiers:
+  gutenberg: '71538'
+  lccn: '99002238'
+language: en
+production_note: Al Haines
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Robespierre, Maximilien, 1758-1794 -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+title: 'Robespierre : $b the story of Victorien Sardou''s play adapted and novelized
+  under his authority'
+url: http://www.gutenberg.org/ebooks/71538
